@@ -1,0 +1,55 @@
+/*Reset */
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/background.jpeg);
+}
+
+h1{
+   font-size: 60px;
+  line-height: 26px;
+  font-family: 'Pacifico', cursive;
+}
+
+.header {
+  color: #FFF;
+   padding: 20px 50px;
+  background-color: #9b3d29;
+}
+
+span {
+  font-size: 18px;
+  font-style: italic;
+   font-family: 'Arial', 'Helvetica'; 
+ }
+
+.logo {
+  float: left;
+  width: 140px;
+}
+
+.section-main {
+  width: 960px;
+  padding: 10px;
+  margin: 0px auto; 
+  background-color: #FFF;
+}
+
+.img-brigadeiro {
+  width: 475px;
+  float: left;
+}
+
+.img-bolo2 {
+  width: 475; 
+  float: left;
+  margin-left: 5px;
+}
+
+.footer {
+  color: #FFF;
+  padding: 20px 50px; 
+  background-color: #9b3d29; 
+}
